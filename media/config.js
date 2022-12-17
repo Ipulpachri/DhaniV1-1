@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6285890316393'] //Masukin nomor mu
-global.ownernomer = "6285890316393" //Masukin nomor mu
-global.premium = ['6285890316393'] //Masukin nomor mu
-global.namanya = 'HanzOfc' //Masukin nama mu
-global.fakename = '© XiaomiBOT' //Masukin nama mu
-global.botname = 'XiaomiBOT' //Masukin nama bot kamu
+global.owner = ['6285713041886'] //Masukin nomor mu
+global.ownernomer = "6285713041886" //Masukin nomor mu
+global.premium = ['6285713041886'] //Masukin nomor mu
+global.namanya = 'FachriOfc' //Masukin nama mu
+global.fakename = '© FachriBOT' //Masukin nama mu
+global.botname = 'FachriBOT' //Masukin nama bot kamu
 global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
-global.author = 'XiaomiBOT' //Monggo kalau mau ubah
+global.author = 'FachriBOT' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
 global.jumlha = '999' //Gak usah di ubah
 global.jumhal = '100000000000000' //Gak usah di ubah
@@ -25,8 +25,8 @@ global.gaya03 =  '⚔️' //Monggo kalau mau ubah
 global.gayar = '❏' //Monggo kalau mau ubah
 global.gayas = '❏' //Monggo kalau mau ubah
 global.scmu = 'Kamu Nanya??\nKamu Bertanya2?' //Monggo kalau mau ubah
-global.githubmu = 'https://github.com/XiaomiBOT' //Isi nama github mu
-global.ytmu = 'https://youtube.com/channel/@ranggabotzofc' //Gak usah di ubah
+global.githubmu = 'https://github.com/Ipulpachri' //Isi nama github mu
+global.ytmu = 'https://youtube.com/c/SaefulFahri' //Gak usah di ubah
 global.ytvmu = 'https://youtube.com/@ranggabotzofc' //Gak usah di ubah
 global.mess = {
     success: '✅Done',
